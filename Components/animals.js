@@ -1,5 +1,12 @@
-import {View, Text, Image} from "react-native";
+import {View, Image, StyleSheet} from "react-native";
 
+
+// const styles = StyleSheet.create({
+//     question: {
+//
+//     }
+//
+// })
 const AllAnimals = ({picture}) => {
     return (
         <View>
